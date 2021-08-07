@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sparklycat (Ananke)
+- 👋 Hi, I’m Ananke
 - 👀 I’m interested in becoming data literate and picking up programming skills
 - 🌱 I’m currently learning SQL, Python, and data analysis
 - 📫 You can reach me on Twitter (@AnankeCodes)
